@@ -1,5 +1,6 @@
 Vacation Checkout Application
-This project is a Java Spring Boot Web Application designed for managing vacation packages and customer orders with a checkout form.
+
+This project is a Java Spring Boot Web App designed for managing vacation packages and customer orders with a checkout form.
 It demonstrates the integration of a MySQL database with a RESTful API and is equipped with a modular architecture for scalability and maintainability.
 
 Tech Stack Used
